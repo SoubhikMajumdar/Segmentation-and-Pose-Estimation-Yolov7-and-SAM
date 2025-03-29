@@ -9,4 +9,4 @@
 
 * Output videos and joint_coordinates.csv for datasets are located in segposeframes, BR_poseframes, BK_poseframes, FL_poseframes (with the output frames after segmentation and pose estimation)
 
-##############################################################################################################################3
+##############################################################################################################################
